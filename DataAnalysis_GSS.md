@@ -92,7 +92,7 @@ p2 = x2/n2
 
 # H0: p1 - p2 = 0   
 # H1: p1 -p2 < 0    
-## significance level (0.05)   one thil 
+## significance level (0.05)   one tail 
 
 
 ```r
